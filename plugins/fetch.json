@@ -1,0 +1,18 @@
+{
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "com.rjfun.cordova.httpd": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\danie\\Desktop\\Projectos\\servidor5\\servidor5\\node_modules\\cordova-httpd"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}

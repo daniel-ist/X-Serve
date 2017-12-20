@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="build/generated/source/r/debug"/>
+	<classpathentry kind="src" path="cordova/node_modules/properties-parser/test"/>
+	<classpathentry kind="src" path="CordovaLib/build/generated/source/buildConfig/androidTest/debug"/>
+	<classpathentry kind="src" path="CordovaLib/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="CordovaLib/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="build/generated/mockable-android-25.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/exploded-aar/org.apache.cordova/CordovaLib/6.2.3/debug/jars/classes.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/pre-dexed/debug/CordovaLib-6.2.3-debug_b2761d2ed0bb76cbf5e3dbfc630e7b13dca0b71a.jar"/>
+	<classpathentry kind="lib" path="build/intermediates/pre-dexed/debug/debug_d4fea67f1f079ab70369387269aea97f18931b60.jar"/>
+	<classpathentry kind="lib" path="CordovaLib/build/intermediates/bundles/debug/classes.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="CordovaLib/build/intermediates/classes/debug"/>
+</classpath>
